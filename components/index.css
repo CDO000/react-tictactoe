@@ -1,0 +1,24 @@
+.x { 
+    color: red; 
+}
+
+.O {
+    color: green;
+}
+
+.info-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    padding: 1rem;
+}
+
+li {
+    list-style: none;
+}
+
+.info-wrapper button {
+    color: black
+}
